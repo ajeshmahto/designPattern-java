@@ -15,7 +15,7 @@ public class Singleton {
 	}
 	
 	public void print(){
-		System.out.println("Hello I am singleton");
+		System.out.println("Hello I am singleton ");
 	}
 
 }
